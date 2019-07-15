@@ -1,3 +1,4 @@
+#求素数，埃氏筛法
 def _odd_iter():
     n = 1
     while True:
