@@ -1,3 +1,4 @@
+#判断1000以内的回数
 def is_palindrome(n):
     L=[]
     while n:
